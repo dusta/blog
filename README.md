@@ -1,8 +1,12 @@
 ### Dframe Blog - Module
 
 ## Instalation
-Add to your main composer.json
 
+Run
+``` bash
+$ composer create-project dframe/dframe-demo
+```
+After install add to your main composer.json
 ``` json
     "extra": {
         "installer-types": [
@@ -16,7 +20,8 @@ Add to your main composer.json
     }
 ```
 
-Run
+and run
+
 ``` bash
 $ composer require dusta/blog dev-master
 ```
