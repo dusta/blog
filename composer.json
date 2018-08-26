@@ -1,4 +1,8 @@
 {
+    "config": {
+        "preferred-install": "dist",
+        "vendor-dir": "modules"
+    },
     "name": "dusta/blog",
     "description": "Simple Blog",
     "license": "MIT",
