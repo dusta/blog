@@ -1,0 +1,21 @@
+{
+    "name": "dusta/blog",
+    "description": "Simple Blog",
+    "type": "dframe-modules",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sławomir Kaleta",
+            "email": "slaszka@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "": "app/",
+            "Dusta\\Blog\\": "modules/Dusta/Blog/src",
+        }
+    },
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
