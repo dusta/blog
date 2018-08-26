@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Dusta\\Blog\\": "modules/dusta/blog/src"
+            "Dusta\\Blog\\": "src"
         }
     },
     "require": {
