@@ -15,6 +15,7 @@
         }
     },
     "require": {
+        "dframe/dframe": "dev-master",
         "oomphinc/composer-installers-extender": "^1.1"
     },
     "extra": {
