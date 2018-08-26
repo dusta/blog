@@ -4,7 +4,7 @@
 
 Run
 ``` bash
-$ composer create-project dframe/dframe-demo
+$ composer create-project dframe/dframe-demo dev-master
 ```
 After install add to your main composer.json
 ``` json
