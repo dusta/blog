@@ -1,6 +1,6 @@
 {
     "name": "dusta/blog",
-    "type": "dframe-modules",
+    "type": "library",
     "description": "Simple Blog",
     "license": "MIT",
     "authors": [
