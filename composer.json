@@ -8,20 +8,5 @@
             "name": "Sławomir Kaleta",
             "email": "slaszka@gmail.com"
         }
-    ],
-    "autoload": {
-        "psr-4": {
-            "Dusta\\Blog\\": "modules/Dusta/Blog/src"
-        }
-    },
-    "require": {
-        "composer/installers": "~1.0"
-    }, 
-    "extra": {
-        "installer-paths": {
-            "./modules/{$vendor}/{$name}": [
-                "dusta/blog"
-            ]
-        }
-    }
+    ]
 }
