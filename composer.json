@@ -1,8 +1,4 @@
 {
-    "config": {
-        "preferred-install": "dist",
-        "vendor-dir": "modules"
-    },
     "name": "dusta/blog",
     "description": "Simple Blog",
     "license": "MIT",
@@ -16,6 +12,6 @@
        "oomphinc/composer-installers-extender": "^1.1"
     },
     "extra": {
-      "installer-name": "dframe-modules"
+       "installer-types": ["library"]
   }
 }
