@@ -8,6 +8,9 @@
             "email": "slaszka@gmail.com"
         }
     ],
+    "require": {
+       "oomphinc/composer-installers-extender": "^1.1"
+    },
     "extra": {
       "installer-name": "dframe-modules"
   }
