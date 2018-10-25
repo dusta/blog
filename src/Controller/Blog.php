@@ -1,8 +1,14 @@
 <?php
+
 namespace Dusta\Blog\Controller;
 
 use Dframe\Router\Response;
 
+/**
+ * Class Blog
+ *
+ * @package Dusta\Blog\Controller
+ */
 class Blog extends \Dusta\Blog\Controller\Controller
 {
     // public function init($type = 'docs')

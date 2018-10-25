@@ -1,14 +1,14 @@
 <?php
 
-return array(
+return [
 
-    'routes' => array(
-        'blog/test' => array(
+    'routes' => [
+        'blog/test' => [
             'blog/test',
             'task=Blog&action=test',
             'namespace' => 'Dusta\Blog',
             'method' => 'test'
-        )
-    )
+        ]
+    ]
 
-);
+];
